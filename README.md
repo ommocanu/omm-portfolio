@@ -1,9 +1,20 @@
-# Data Analyst 
+# Get to know me
 
-### Education
+I am a highly accomplished individual, with a vast academic background and significant experience across industries such as finance and video games. 
+
+**Technical Skills:** Python, SQL, Tableau, Excel (Microsoft Office 365 suite), SPSS, PowerBI 
 
 
-### Work Experience
+## Education
+  - MSc Artificial Intelligence and Human Factors, *Coventry University*, Grade: Distinction
+  - MSc Business Analytics, *Coventry University*, Grade: Distinction
+  - BA Business Management, *Coventry University*, Grade: First Class
+
+## Projects
 
 
-### Projects
+
+## Work Experience
+
+
+
