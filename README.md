@@ -1,1 +1,9 @@
-# omm-portfolio
+# Data Analyst 
+
+### Education
+
+
+### Work Experience
+
+
+### Projects
